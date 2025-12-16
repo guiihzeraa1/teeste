@@ -1,0 +1,377 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="417185" tvg-name="AdultSwim" group-title="Desenhos",AdultSwim
+http://webcontent02.fun/adultswim/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="425973" tvg-name="HBO Mundi" group-title="Filmes",HBO Mundi
+http://webcontent02.fun/hbomundi/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426049" tvg-name="Premiere 6" group-title="Esportes",Premiere 6
+http://webcontent02.fun/premiere6/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="425994" tvg-name="Premiere 7" group-title="Esportes",Premiere 7
+http://webcontent02.fun/premiere7/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="425983" tvg-name="TV Pai Eterno" group-title="Abertos",TV Pai Eterno
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+#EXTINF:-1 tvg-id="435551" tvg-name="Discovery H&H" group-title="Documentários",Discovery H&H
+http://webcontent02.fun/discoveryhh/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="417383" tvg-name="HBO" group-title="Filmes",HBO
+http://webcontent02.fun/hbo/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="418723" tvg-name="HBO Plus" group-title="Filmes",HBO Plus
+http://webcontent02.fun/hboplus/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="417187" tvg-name="Jovem Pan" group-title="Abertos, Notícias",Jovem Pan
+http://api.panflix.com.br/User/RedirectToSignedUrlExt?url=https%3A%2F%2Flive.panflix.com.br%2Fout%2Fv1%2F7836eb391ec24452b149f3dc6df15bbd%2Findex.m3u8&key=2c5831ee-53e0-11ee-8c99-0242ac120002
+#EXTINF:-1 tvg-id="417589" tvg-name="Rede Brasil" group-title="Abertos",Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:-1 tvg-id="426048" tvg-name="TV Brasil" group-title="Abertos",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="426088" tvg-name="Universal TV" group-title="Series",Universal TV
+http://webcontent02.fun/universalchannel/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="435409" tvg-name="A&E" group-title="Series, Filmes",A&E
+http://webcontent02.fun/ae/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426132" tvg-name="AMC" group-title="Filmes, Series",AMC
+http://webcontent02.fun/amc/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="425989" tvg-name="Animal Planet" group-title="Documentários",Animal Planet
+http://webcontent02.fun/animalplanet/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426044" tvg-name="AXN" group-title="Series",AXN
+http://webcontent02.fun/axn/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426001" tvg-name="Band" group-title="Abertos",Band
+http://webcontent02.fun/band/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426077" tvg-name="Band News" group-title="Abertos, Notícias",Band News
+http://webcontent02.fun/bandnews/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426069" tvg-name="Band Sports " group-title="Esportes",Band Sports 
+http://webcontent02.fun/bandsports/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426194" tvg-name="Cartoonito" group-title="Infantil",Cartoonito
+http://webcontent02.fun/cartoonito/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426094" tvg-name="Cartoon Network " group-title="Infantil",Cartoon Network 
+http://webcontent02.fun/cartoonnetwork/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426059" tvg-name="Cinemax" group-title="Filmes",Cinemax
+http://webcontent02.fun/cinemax/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426108" tvg-name="CNN Brasil" group-title="Abertos, Notícias",CNN Brasil
+https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
+#EXTINF:-1 tvg-id="426072" tvg-name="Combate " group-title="Esportes",Combate 
+http://webcontent02.fun/combate/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426083" tvg-name="Comedy Central" group-title="Series",Comedy Central
+http://webcontent02.fun/comedycentral/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426157" tvg-name="Discovery Channel" group-title="Documentários",Discovery Channel
+http://webcontent02.fun/discoverychannel/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426105" tvg-name="Discovery Kids " group-title="Infantil",Discovery Kids 
+http://webcontent02.fun/discoverykids/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426066" tvg-name="Discovery Science" group-title="Documentários",Discovery Science
+http://webcontent02.fun/discoveryscience/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426010" tvg-name="Discovery Turbo" group-title="Documentários",Discovery Turbo
+http://webcontent02.fun/discoveryturbo/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426053" tvg-name="FishTV" group-title="Esportes, Pesca",FishTV
+http://webcontent02.fun/fish/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426074" tvg-name="Food Network" group-title="Gastronomia",Food Network
+https://cdn3.playflix.fun/food/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426116" tvg-name="TV Gazeta (SP)" group-title="Abertos",TV Gazeta (SP)
+https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:-1 tvg-id="426056" tvg-name="Canal Rural" group-title="Abertos",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="426187" tvg-name="TV Cultura" group-title="Abertos",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="426106" tvg-name="Discovery Theater" group-title="Documentários",Discovery Theater
+https://webcontent02.fun/discoverytheater/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426164" tvg-name="Discovery World" group-title="Documentários",Discovery World
+http://webcontent02.fun/discoveryworld/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426029" tvg-name="Globo (SP)" group-title="Abertos",Globo (SP)
+http://webcontent02.fun/globosp/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426168" tvg-name="Globo News" group-title="Abertos, Notícias",Globo News
+http://webcontent02.fun/globonews/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426182" tvg-name="Gloob" group-title="Infantil",Gloob
+http://webcontent02.fun/gloob/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426169" tvg-name="Gloobinho" group-title="Infantil ",Gloobinho
+http://webcontent02.fun/gloobinho/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426103" tvg-name="GNT" group-title="Variedades",GNT
+http://webcontent02.fun/gnt/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426070" tvg-name="HBO 2" group-title="Filmes",HBO 2
+http://webcontent02.fun/hbo2/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0000" tvg-name="Globo (RJ)" group-title="Abertos",Globo (RJ)
+http://webcontent02.fun/globorj/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426090" tvg-name="HBO Family " group-title="Filmes, Infantil",HBO Family 
+http://webcontent02.fun/hbofamily/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426170" tvg-name="HBO Pop" group-title="Filmes",HBO Pop
+http://webcontent02.fun/hbopop/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="425995" tvg-name="HBO Signature" group-title="Filmes, Series",HBO Signature
+http://webcontent02.fun/hbosignature/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426015" tvg-name="HBO Xtreme" group-title="Filmes",HBO Xtreme
+http://webcontent02.fun/hboxtreme/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="417188" tvg-name="History 2" group-title="Documentários, História",History 2
+http://webcontent02.fun/history2/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426149" tvg-name="History" group-title="Documentários, História",History
+http://webcontent02.fun/history/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426147" tvg-name="Megapix" group-title="Filmes ",Megapix
+http://webcontent02.fun/megapix/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="425986" tvg-name="MTV" group-title="Reality",MTV
+http://webcontent02.fun/mtv/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="425979" tvg-name="Multishow" group-title="Variedades",Multishow
+http://webcontent02.fun/multishow/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="425966" tvg-name="Record" group-title="Abertos",Record
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="426126" tvg-name="Record News" group-title="Abertos, Notícias",Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-id="426018" tvg-name="Rede Gospel" group-title="Abertos",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="426114" tvg-name="Rede Vida" group-title="Abertos",Rede Vida
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+#EXTINF:-1 tvg-id="426198" tvg-name="RedeTV" group-title="Abertos",RedeTV
+https://5ad482a77183d.streamlock.net/administrativoredetvto.com.br/administrativoredetvto.com.br/playlist.m3u8
+#EXTINF:-1 tvg-id="426004" tvg-name="SBT" group-title="Abertos",SBT
+http://webcontent02.fun/sbt/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426009" tvg-name="Space" group-title="Filmes",Space
+http://webcontent02.fun/space/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426062" tvg-name="SporTV " group-title="Esportes",SporTV 
+http://webcontent02.fun/sportv/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426082" tvg-name="SporTV 2" group-title="Esportes",SporTV 2
+http://webcontent02.fun/sportv2/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426005" tvg-name="SporTV 3" group-title="Esportes",SporTV 3
+http://webcontent02.fun/sportv3/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426152" tvg-name="Studio Universal " group-title="Filmes",Studio Universal 
+http://webcontent02.fun/studiouniversal/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426131" tvg-name="Telecine Action" group-title="Filmes",Telecine Action
+http://webcontent02.fun/tcaction/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="425961" tvg-name="MegaTV" group-title="Abertos",MegaTV
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="425991" tvg-name="TV Câmara" group-title="Abertos",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="0004" tvg-name="AnimeTV" group-title="Infantil",AnimeTV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="0005" tvg-name="TV Cultura (PR)" group-title="Abertos",TV Cultura (PR)
+https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-id="0006" tvg-name="FIFA+" group-title="Esportes",FIFA+
+https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="426028" tvg-name="Premiere" group-title="Esportes",Premiere
+http://webcontent02.fun/premiere/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0007" tvg-name="AmazonSat" group-title="Abertos",AmazonSat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="0008" tvg-name="ArteFlix" group-title="Abertos",ArteFlix
+https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0009" tvg-name="Boas Novas" group-title="Abertos",Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 tvg-id="0011" tvg-name="Bons Tempos TV" group-title="Abertos",Bons Tempos TV
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-id="0012" tvg-name="TVI Reality" group-title="Reality",TVI Reality
+https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:-1 tvg-id="0013" tvg-name="Masterchef" group-title="Abertos",Masterchef
+https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="0014" tvg-name="CLIC" group-title="Abertos",CLIC
+https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="0015" tvg-name="TV Clássicos" group-title="Filmes",TV Clássicos
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-id="0016" tvg-name="Canal GOV" group-title="Abertos",Canal GOV
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="0020" tvg-name="SBT (CU)" group-title="Abertos",SBT (CU)
+https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
+#EXTINF:-1 tvg-id="0021" tvg-name="SBT (RO)" group-title="Abertos",SBT (RO)
+https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
+#EXTINF:-1 tvg-id="425970" tvg-name="Premiere 2" group-title="Esportes",Premiere 2
+http://webcontent02.fun/premiere2/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="425997" tvg-name="Premiere 3" group-title="Esportes",Premiere 3
+http://webcontent02.fun/premiere3/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426174" tvg-name="Premiere 4" group-title="Esportes",Premiere 4
+http://webcontent02.fun/premiere4/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="425985" tvg-name="Premiere 5" group-title="Esportes",Premiere 5
+http://webcontent02.fun/premiere5/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0022" tvg-name="TVI" group-title="Filmes",TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+#EXTINF:-1 tvg-id="0023" tvg-name="TVI Ficção" group-title="Filmes",TVI Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="0024" tvg-name="Canal do Criador " group-title="Abertos",Canal do Criador 
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="0025" tvg-name="EuroNews" group-title="Notícias",EuroNews
+https://598c4b93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="0026" tvg-name="GRJNGO" group-title="Filmes",GRJNGO
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0027" tvg-name="Gospel Cartoon" group-title="Abertos",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="426137" tvg-name="Telecine" group-title="Filmes",Telecine
+http://webcontent02.fun/tlc/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0028" tvg-name="1001 Noites" group-title="Filmes",1001 Noites
+https://58c8a6b3c74e2.streamlock.net:1936/1001noites/smil:1001noites.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="0030" tvg-name="Aragon TV" group-title="Internacional",Aragon TV
+https://cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-id="426117" tvg-name="Telecine Cult" group-title="Filmes",Telecine Cult
+http://webcontent02.fun/tccult/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0031" tvg-name="Adesso TV" group-title="Abertos",Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="0033" tvg-name="AWTV" group-title="Filmes",AWTV
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
+#EXTINF:-1 tvg-id="0034" tvg-name="Canal 38" group-title="Abertos, Notícias",Canal 38
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-id="0035" tvg-name="Canal Educação" group-title="Abertos",Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="0036" tvg-name="Master TV" group-title="Abertos",Master TV
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="0037" tvg-name="Chroma TV" group-title="Abertos, Filmes",Chroma TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-id="465495" tvg-name="Warner Channel" group-title="Series",Warner Channel
+http://webcontent02.fun/warnerchannel/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="465440" tvg-name="TNT Séries" group-title="Series",TNT Séries
+http://webcontent02.fun/tntseries/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="465437" tvg-name="Telecine Pipoca" group-title="Filmes",Telecine Pipoca
+http://webcontent02.fun/tcpipoca/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0041" tvg-name="24H Simpsons" group-title="Series 24H",24H Simpsons
+http://webcontent02.fun/24hossimpsons/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0045" tvg-name="24H Chaves" group-title="Series 24H",24H Chaves
+http://webcontent02.fun/24hchaves/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="465428" tvg-name="Tooncast" group-title="Desenhos",Tooncast
+http://webcontent02.fun/tooncast/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0046" tvg-name="24H Todo Mundo Odeia o Chris" group-title="Series 24H",24H Todo Mundo Odeia o Chris
+http://webcontent02.fun/24htodomundochris/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="465434" tvg-name="Telecine Fun" group-title="Infantil, Filmes",Telecine Fun
+http://webcontent02.fun/tcfun/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426043" tvg-name="Off" group-title="Documentários",Off
+http://webcontent02.fun/off/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="426097" tvg-name="Nick Jr" group-title="Infantil",Nick Jr
+http://webcontent02.fun/nickjr/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="425987" tvg-name="Telecine Touch" group-title="Filmes",Telecine Touch
+http://webcontent02.fun/tctouch/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="425971" tvg-name="Nickelodeon" group-title="Desenhos",Nickelodeon
+http://webcontent02.fun/nickelodeon/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0047" tvg-name="PrimeVídeo 3" group-title="Esportes",PrimeVídeo 3
+http://webcontent02.fun/primevideo3/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0048" tvg-name="PrimeVídeo 2" group-title="Esportes",PrimeVídeo 2
+http://webcontent02.fun/primevideo2/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0049" tvg-name="PrimeVídeo 1" group-title="Esportes",PrimeVídeo 1
+http://webcontent02.fun/primevideo1/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0050" tvg-name="Globo (BA)" group-title="Abertos",Globo (BA)
+http://webcontent02.fun/globoba/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0051" tvg-name="HBO Max 6" group-title="Esportes",HBO Max 6
+http://webcontent02.fun/hbomax6/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0052" tvg-name="HBO Max 5" group-title="Esportes",HBO Max 5
+http://webcontent02.fun/hbomax5/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0053" tvg-name="HBO Max 4" group-title="Esportes",HBO Max 4
+http://webcontent02.fun/hbomax4/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0054" tvg-name="HBO Max 3" group-title="Esportes",HBO Max 3
+http://webcontent02.fun/hbomax3/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0055" tvg-name="HBO Max 2" group-title="Esportes",HBO Max 2
+http://webcontent02.fun/hbomax2/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0056" tvg-name="HBO Max 1" group-title="Esportes",HBO Max 1
+http://webcontent02.fun/hbomax1/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0057" tvg-name="Globo (BR)" group-title="Abertos",Globo (BR)
+http://webcontent02.fun/globobrasilia/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="465478" tvg-name="Sonny Channel" group-title="Series",Sonny Channel
+http://webcontent02.fun/sonychannel/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0061" tvg-name="Paramount Plus 3" group-title="Esportes",Paramount Plus 3
+http://webcontent02.fun/paramountplus3/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0064" tvg-name="Paramount Plus 2" group-title="Esportes",Paramount Plus 2
+http://webcontent02.fun/paramountplus2/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="0065" tvg-name="Paramount Plus" group-title="Esportes",Paramount Plus
+http://webcontent02.fun/paramountplus1/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="00010" tvg-name="A Fazenda 17 (CAM 1)" group-title="Reality",A Fazenda 17 (CAM 1)
+http://webcontent02.fun/afazenda17cam1/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="1" tvg-name="A Fazenda 17 (CAM 2)" group-title="Reality",A Fazenda 17 (CAM 2)
+http://webcontent02.fun/afazenda17cam2/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="2" tvg-name="A Fazenda 17 (CAM 3)" group-title="Reality",A Fazenda 17 (CAM 3)
+http://webcontent02.fun/afazenda17cam3/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="300" tvg-name="Movie SPHERE" group-title="Filmes",Movie SPHERE
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="301" tvg-name="Novo Tempo" group-title="Abertos",Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="302" tvg-name="Rede Super" group-title="Filmes",Rede Super
+https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
+#EXTINF:-1 tvg-id="304" tvg-name="Runtime Ação " group-title="Filmes",Runtime Ação 
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1 tvg-id="426123" tvg-name="Telecine Premium" group-title="Filmes",Telecine Premium
+http://webcontent02.fun/tcpremium/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="305" tvg-name="Retrô Cartoon" group-title="Series 24H",Retrô Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="306" tvg-name="SIC" group-title="Abertos",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1 tvg-id="307" tvg-name="SIC Notícias" group-title="Notícias",SIC Notícias
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+#EXTINF:-1 tvg-id="426013" tvg-name="TNT Novelas" group-title="Series",TNT Novelas
+http://webcontent02.fun/tntnovelas/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="310" tvg-name="Globo (MG)" group-title="Abertos",Globo (MG)
+http://webcontent02.fun/globomg/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="311" tvg-name="Globo (NT)" group-title="Abertos",Globo (NT)
+http://webcontent02.fun/globonatal/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="312" tvg-name="Globo (Nordeste)" group-title="Abertos",Globo (Nordeste)
+http://webcontent02.fun/globonordeste/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="313" tvg-name="Globo (Novelas)" group-title="Series ",Globo (Novelas)
+http://webcontent02.fun/globoplaynovelas/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="314" tvg-name="Globo (RB)" group-title="Abertos",Globo (RB)
+http://webcontent02.fun/globorp/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="315" tvg-name="Globo (Verde Mares)" group-title="Abertos",Globo (Verde Mares)
+http://webcontent02.fun/globoverdesmares/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="316" tvg-name="Disney+" group-title="Esportes",Disney+
+http://webcontent02.fun/disneyplus1/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="317" tvg-name="Disney+ 2" group-title="Esportes",Disney+ 2
+http://webcontent02.fun/disneyplus2/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="318" tvg-name="Disney+ 3" group-title="Esportes",Disney+ 3
+http://webcontent02.fun/disneyplus3/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="465490" tvg-name="TV Aparecida" group-title="Abertos",TV Aparecida
+http://webcontent02.fun/aparecida/index.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="5056" tvg-name="TV Evangelizar" group-title="Abertos",TV Evangelizar
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+#EXTINF:-1 tvg-id="5057" tvg-name="TV Maanain" group-title="Abertos",TV Maanain
+https://58c8a6b3c74e2.streamlock.net:1936/maranatalive/smil:maranatalive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="5058" tvg-name="Canção Nova (PT)" group-title="Abertos",Canção Nova (PT)
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="5059" tvg-name="Discovery ID" group-title="Documentários",Discovery ID
+http://webcontent02.fun/discoveryid/video.m3u8?token=cineplay19102025aFxqPnBzz
+#EXTINF:-1 tvg-id="5060" tvg-name="Record (RN)" group-title="Abertos",Record (RN)
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
+#EXTINF:-1 tvg-id="5061" tvg-name="Record (MT)" group-title="Abertos",Record (MT)
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 tvg-id="5063" tvg-name="Band (PB)" group-title="Abertos",Band (PB)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-id="5062" tvg-name="Band (PA)" group-title="Abertos",Band (PA)
+https://stmv8.samcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="5064" tvg-name="Rede Brasil (SP)" group-title="Abertos",Rede Brasil (SP)
+https://redemundotv.com.br/servidor/tv/parana_hd2/parana_hd2.m3u8
+#EXTINF:-1 tvg-id="5065" tvg-name="Rede Brasil (MT)" group-title="Abertos",Rede Brasil (MT)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-id="5066" tvg-name="Rede Brasil (PA)" group-title="Abertos",Rede Brasil (PA)
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:-1 tvg-id="5067" tvg-name="Rede Brasil (PR)" group-title="Abertos",Rede Brasil (PR)
+https://virtual.tv.br/servidor/tv/virtual/virtual.m3u8
+#EXTINF:-1 tvg-id="355444" tvg-name="Anime Vision (1080p)" group-title="Animação",Anime Vision (1080p)
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+#EXTINF:-1 tvg-id="1343456" tvg-name="Anime Vision Classics (1080p)" group-title="Animação",Anime Vision Classics (1080p)
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+#EXTINF:-1 tvg-id="3579992" tvg-name="BBC Four/CBeebies (1080p)" group-title="Animação",BBC Four/CBeebies (1080p)
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+#EXTINF:-1 tvg-id="1465994" tvg-name="BBC Three/CBBC (1080p)" group-title="Animação",BBC Three/CBBC (1080p)
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+#EXTINF:-1 tvg-id="13568953" tvg-name="Game One (1080p)" group-title="Animação",Game One (1080p)
+https://viamotionhsi.netplus.ch/live/eds/gameone/browser-HLS8/gameone.m3u8
+#EXTINF:-1 tvg-id="24678433" tvg-name="Солнце" group-title="Animação",Солнце
+https://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 tvg-id="24216784" tvg-name="Al Arabiya Business (1080p)" group-title="Negócios",Al Arabiya Business (1080p)
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="13231442" tvg-name="BFM Business (576p)" group-title="Negócios",BFM Business (576p)
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="7098644" tvg-name="Bloomberg TV Mongolia HD (720p)" group-title="Negócios",Bloomberg TV Mongolia HD (720p)
+https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
+#EXTINF:-1 tvg-id="14637843" tvg-name="Business 24 Africa (480p)" group-title="Negócios",Business 24 Africa (480p)
+https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8
+#EXTINF:-1 tvg-id="103939101" tvg-name="CNBC Europe HD (1080p)" group-title="Negócios",CNBC Europe HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+#EXTINF:-1 tvg-id="183829110" tvg-name="CNBC Indonesia (720p)" group-title="Negócios",CNBC Indonesia (720p)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-id="29390110" tvg-name="Nei Monggol TV Economic & Life Channel" group-title="Negócios",Nei Monggol TV Economic & Life Channel
+https://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+#EXTINF:-1 tvg-id="183849402" tvg-name="NW Economie (576p)" group-title="Negócios",NW Economie (576p)
+https://hls.newworldtv.com/nw-economie/video/live.m3u8
+#EXTINF:-1 tvg-id="183392011" tvg-name="Trends Z (1080p)" group-title="Negócios",Trends Z (1080p)
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
+#EXTINF:-1 tvg-id="5678432" tvg-name="Retrox TV (720p)" group-title="Filmes",Retrox TV (720p)
+https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
+#EXTINF:-1 tvg-id="45789754" tvg-name="TVS Retro (720p)" group-title="Filmes",TVS Retro (720p)
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="29394920220" tvg-name="30A Ridiculous TV (720p)" group-title="Series",30A Ridiculous TV (720p)
+https://30a-tv.com/feeds/720p/63.m3u8
+#EXTINF:-1 tvg-id="29393029420" tvg-name="Comedy Play (720p)" group-title="Series",Comedy Play (720p)
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
+#EXTINF:-1 tvg-id="193949292039" tvg-name="Nick/Comedy Central +1 HD (1080p)" group-title="Series",Nick/Comedy Central +1 HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
+#EXTINF:-1 tvg-id="2838929292" tvg-name="Hello Taste (720p)" group-title="Culinária",Hello Taste (720p)
+https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+#EXTINF:-1 tvg-id="28491193" tvg-name="In the kitchen" group-title="Culinária",In the kitchen
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+#EXTINF:-1 tvg-id="18382838384" tvg-name="Afroculture TV" group-title="Cultura",Afroculture TV
+https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
+#EXTINF:-1 tvg-id="1848283838" tvg-name="AlKawthar" group-title="Cultura",AlKawthar
+https://lenz.splus.ir/PLTV/88888888/224/3221226158/index.m3u8
+#EXTINF:-1 tvg-id="184828392929" tvg-name="AsiriTV (720p" group-title="Cultura",AsiriTV (720p
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-id="274828292" tvg-name="BX Arts (720p)" group-title="Cultura",BX Arts (720p)
+https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
