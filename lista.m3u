@@ -150,6 +150,9 @@ https://brasiltv.store/axn/index.fmp4.m3u8?token=q4zxh9GKeVmZ4vzqjLDXzb8FUDtWc0X
 #EXTINF:-1 tvg-id="sonychannel" tvg-name="Sony Channel" group-title="Entretenimento",Sony Channel
 https://brasiltv.store/sonychannel/index.fmp4.m3u8?token=q4zxh9GKeVmZ4vzqjLDXzb8FUDtWc0XXEimtOk5U1ihlxOUp
 
+#EXTINF:-1 tvg-id="warnerchannel" tvg-name="Warner Channel" group-title="Entretenimento",Warner Channel
+https://brasiltv.store/warnerchannel/index.fmp4.m3u8?token=q4zxh9GKeVmZ4vzqjLDXzb8FUDtWc0XXEimtOk5U1ihlxOUp
+
 #EXTINF:-1 tvg-id="space" tvg-name="Space" group-title="Entretenimento",Space
 https://brasiltv.store/space/index.fmp4.m3u8?token=q4zxh9GKeVmZ4vzqjLDXzb8FUDtWc0XXEimtOk5U1ihlxOUp
 
@@ -194,6 +197,9 @@ https://brasiltv.store/hbo/index.fmp4.m3u8?token=q4zxh9GKeVmZ4vzqjLDXzb8FUDtWc0X
 https://brasiltv.store/hbo2/index.fmp4.m3u8?token=q4zxh9GKeVmZ4vzqjLDXzb8FUDtWc0XXEimtOk5U1ihlxOUp
 
 // --- DOCUMENTARIOS E VARIEDADES ---
+#EXTINF:-1 tvg-id="discoverychannel" tvg-name="Discovery Channel" group-title="Documentarios",Discovery Channel
+https://brasiltv.store/discoverychannel/index.fmp4.m3u8?token=q4zxh9GKeVmZ4vzqjLDXzb8FUDtWc0XXEimtOk5U1ihlxOUp
+
 #EXTINF:-1 tvg-id="ae" tvg-name="A&E" group-title="Documentarios",A&E
 https://brasiltv.store/ae/index.fmp4.m3u8?token=q4zxh9GKeVmZ4vzqjLDXzb8FUDtWc0XXEimtOk5U1ihlxOUp
 
@@ -206,5 +212,12 @@ https://brasiltv.store/history2/index.fmp4.m3u8?token=q4zxh9GKeVmZ4vzqjLDXzb8FUD
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC" group-title="Variedades",TLC
 https://brasiltv.store/tlc/index.fmp4.m3u8?token=q4zxh9GKeVmZ4vzqjLDXzb8FUDtWc0XXEimtOk5U1ihlxOUp
 
-#EXTINF:-1 tvg-id="adultswim" tvg-name="Adult Swim" group-title="Animes e Adultos",Adult Swim
+// --- RELIGIOSOS E OUTROS ---
+#EXTINF:-1 tvg-id="24htodomundochris" tvg-name="24H Todo Mundo Chris" group-title="Religiosos",24H Todo Mundo Chris
+https://brasiltv.store/24htodomundochris/index.fmp4.m3u8?token=q4zxh9GKeVmZ4vzqjLDXzb8FUDtWc0XXEimtOk5U1ihlxOUp
+
+#EXTINF:-1 tvg-id="adultswim" tvg-name="Adult Swim" group-title="Animes e Desenhos 24H",Adult Swim
 https://brasiltv.store/adultswim/index.fmp4.m3u8?token=q4zxh9GKeVmZ4vzqjLDXzb8FUDtWc0XXEimtOk5U1ihlxOUp
+
+#EXTINF:-1 tvg-id="24hossimpsons" tvg-name="24H Os Simpsons" group-title="Animes e Desenhos 24H",24H Os Simpsons
+https://brasiltv.store/24hossimpsons/index.fmp4.m3u8?token=q4zxh9GKeVmZ4vzqjLDXzb8FUDtWc0XXEimtOk5U1ihlxOUp
