@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Mini App - Dramas (TikTok Style)</title>
+    <!-- Script Oficial do Telegram Mini Apps -->
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #000;
+            color: #fff;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            overflow: hidden; /* Evita scroll duplo */
+        }
+
+        /* Container principal que faz a mágica do arrastar (Snap) */
+        .feed-container {
+            height: 100vh;
+            width: 100vw;
+            overflow-y: scroll;
+            scroll-snap-type: y mandatory; /* Força o encaixe vertical */
+            scroll-behavior: smooth;
+        }
+
+        /* Cada "Página" de vídeo */
+        .video-card {
+            height: 100vh;
+            width: 100vw;
+            scroll-snap-align: start; /* Onde a tela vai travar ao rolar */
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #111;
+        }
+
+        /* O Player de Vídeo */
+        video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Faz o vídeo preencher a tela toda igual TikTok */
+        }
+
+        /* ─── INTERFACE POR CIMA DO VÍDEO ─── */
+        .ui-overlay {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            padding: 20px;
+            padding-bottom: 40px;
+            background: linear-gradient(transparent, rgba(0,0,0,0.8));
+            pointer-events: none; /* Deixa o clique passar para o vídeo */
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+        }
+
+        .info-text {
+            max-width: 70%;
+        }
+
+        .title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .description {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
+        .side-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            pointer-events: auto; /* Permite clicar nos botões */
+        }
+
+        .btn-acao {
+            background: rgba(255,255,255,0.2);
+            border: none;
+            border-radius: 50%;
+            width: 45px;
+            height: 45px;
+            color: white;
+            font-size: 1.2rem;
+            cursor: pointer;
+            backdrop-filter: blur(5px);
+        }
+
+        /* Aviso de "Toque para som" */
+        .mute-alert {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(0,0,0,0.6);
+            padding: 10px 20px;
+            border-radius: 20px;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="feed-container" id="feed">
+        <!-- Os vídeos serão injetados aqui pelo JavaScript -->
+    </div>
+
+    <script>
+        window.Telegram.WebApp.ready();
+        window.Telegram.WebApp.expand(); 
+
+        // 1. Lê a URL que o bot mandou (ex: index.html?titulo=Nome&videos=link1,link2,link3)
+        const params = new URLSearchParams(window.location.search);
+        
+        // Extrai o nome da série e a lista de vídeos
+        const tituloSerie = params.get('titulo') || 'Série';
+        const urlsVideos = params.get('videos'); 
+
+        const feedContainer = document.getElementById('feed');
+        let playlist = [];
+
+        // 2. Transforma o texto da URL em uma lista de vídeos real
+        if (urlsVideos) {
+            const links = urlsVideos.split(','); // Separa pelos vírgulas
+            
+            links.forEach((link, index) => {
+                playlist.push({
+                    url: link,
+                    titulo: `${tituloSerie} - Ep ${index + 1}`,
+                    descricao: "Deslize para cima para ver o próximo episódio"
+                });
+            });
+        } else {
+            // Mensagem de erro se a pessoa abrir o HTML sem os parâmetros do bot
+            feedContainer.innerHTML = "<h2 style='text-align:center; margin-top:50vh;'>Nenhum vídeo carregado. Abra pelo Bot!</h2>";
+        }
+
+        // 3. Cria os blocos de vídeo na tela
+        playlist.forEach((item, index) => {
+            const card = document.createElement('div');
+            card.className = 'video-card';
+            
+            card.innerHTML = `
+                <video src="${item.url}" loop muted playsinline></video>
+                <div class="mute-alert">🔇 Toque para ativar o som</div>
+                
+                <div class="ui-overlay">
+                    <div class="info-text">
+                        <div class="title">${item.titulo}</div>
+                        <div class="description">${item.descricao}</div>
+                    </div>
+                    <div class="side-buttons">
+                        <button class="btn-acao">❤️</button>
+                        <button class="btn-acao">💬</button>
+                        <button class="btn-acao">🔗</button>
+                    </div>
+                </div>
+            `;
+            feedContainer.appendChild(card);
+        });
+
+        // Controle de Mute/Unmute
+        const videos = document.querySelectorAll('video');
+        videos.forEach(video => {
+            video.parentElement.addEventListener('click', () => {
+                video.muted = !video.muted;
+                const alert = video.parentElement.querySelector('.mute-alert');
+                if(!video.muted) {
+                    alert.innerText = "🔊 Som ativado";
+                    alert.style.opacity = 1;
+                    setTimeout(() => alert.style.opacity = 0, 1500);
+                }
+            });
+        });
+
+        // Intersection Observer (O Scroll Inteligente)
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                const video = entry.target.querySelector('video');
+                if (entry.isIntersecting) {
+                    video.play().catch(() => {});
+                } else {
+                    video.pause();
+                    video.currentTime = 0; 
+                }
+            });
+        }, { root: feedContainer, threshold: 0.6 });
+
+        document.querySelectorAll('.video-card').forEach(card => observer.observe(card));
+    </script>
+</body>
+</html>
